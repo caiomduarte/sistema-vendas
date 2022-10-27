@@ -1,0 +1,60 @@
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\bin\Debug\Projeto Controle Vendas.exe.config
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\bin\Debug\Projeto Controle Vendas.exe
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\bin\Debug\Projeto Controle Vendas.pdb
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\bin\Debug\Google.Protobuf.dll
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\bin\Debug\MySql.Data.dll
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\bin\Debug\Renci.SshNet.dll
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\bin\Debug\Google.Protobuf.xml
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\bin\Debug\MySql.Data.xml
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\bin\Debug\Renci.SshNet.xml
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.csprojAssemblyReference.cache
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.Form1.resources
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.Properties.Resources.resources
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.csproj.GenerateResource.cache
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.csproj.CoreCompileInputs.cache
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.csproj.CopyComplete
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.exe
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.pdb
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmclientes.resources
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmfuncionarios.resources
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmfornecedores.resources
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmprodutos.resources
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmvendas.resources
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmpagamentos.resources
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmhistorico.resources
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmlogin.resources
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.FrmMenu.resources
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.csproj.AssemblyReference.cache
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.csproj.SuggestedBindingRedirects.cache
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmclientes.resources
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmfornecedores.resources
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmfuncionarios.resources
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmhistorico.resources
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmlogin.resources
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.FrmMenu.resources
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmpagamentos.resources
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmprodutos.resources
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmvendas.resources
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.Form1.resources
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.Properties.Resources.resources
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.csproj.GenerateResource.cache
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.csproj.CoreCompileInputs.cache
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.exe
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.pdb
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\bin\Debug\Projeto Controle Vendas.exe.config
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\bin\Debug\Projeto Controle Vendas.exe
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\bin\Debug\Projeto Controle Vendas.pdb
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\bin\Debug\BouncyCastle.Crypto.dll
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\bin\Debug\Google.Protobuf.dll
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\bin\Debug\MySql.Data.dll
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\bin\Debug\Renci.SshNet.dll
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\bin\Debug\Ubiety.Dns.Core.dll
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\bin\Debug\Google.Protobuf.xml
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\bin\Debug\MySql.Data.xml
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\bin\Debug\Renci.SshNet.xml
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.csproj.CopyComplete
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.FrmDetalhe.resources
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmdetalhes.resources
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.Form2.resources
